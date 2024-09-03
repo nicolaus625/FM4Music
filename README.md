@@ -122,11 +122,13 @@ The official GitHub page for the survey paper "Foundation Models for Music: A Su
 | Make-An-Audio 1      | Audio (Sound), Text     | Generation  | Diffusion         |                                     |                            |
 | Make-An-Audio 2      | Audio (Sound), Text     | Generation  | Diffusion         |                                     |                            |
 | Stable Audio Open    | Audio (Sound), Text     | Generation  | Diffusion         |                                     |                            |
+|      CRASH     | Audio (Music), Text     | Generation  | Diffusion         | Spectrum, CNN                       | Transformer Encoder Decoder|
 | Noise2Music          | Audio (Music), Text     | Generation  | Diffusion         | Spectrum, CNN                       | Transformer Encoder Decoder|
 | Mousai               | Audio, Text             | Generation  | Diffusion         |                                     |                            |
 | MusicLDM             | Audio (Music), Text     | Generation  | Diffusion         | Spectrum                            |                            |
 | TANGO                | Audio (Music), Text     | Generation  | Diffusion         | Spectrum                            |                            |
 | JEN-1                | Audio (Music), Text     | Generation  | Diffusion         |                                     |                            |
+| Diff-A-Riff     | Audio (Music), Score     | Generation  | Diffusion         |                                     |                            |
 | GETMusic             | Symbolic (MIDI)         | Generation  | Diffusion         | MIDI (GETscore)                     | Transformer Encoder Decoder|
 | whole-song-gen       | Symbolic (MIDI)         | Generation  | Diffusion         |                                     |                            |
 
@@ -250,3 +252,7 @@ generation.
 
 Last but not least, we acknowledge Junhong Li’s kind help
 with illustrations.
+
+## Version Control
+- Tue, 27th Aug. 2024: fix some typos
+- Tue, 3rd Sept. 2024: include more music diffusion model, update conclusion and discussion, update author list
