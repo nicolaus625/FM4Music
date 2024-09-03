@@ -15,8 +15,8 @@ The official GitHub page for the survey paper "Foundation Models for Music: A Su
 ```
 @article{FM4MusicSurvey,
   title={Foundation Models for Music: A Survey},
-  author={Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elio Quinton, Elona Shatri, Fabio Morreale, Ge Zhang, György Fazekas, Gus Xia, Huan Zhang, Ilaria Manco, Jiawen Huang, Julien Guinot, Liwei Lin, Luca Marinelli, Max W. Y. Lam, Megha Sharma, Qiuqiang Kong, Roger B. Dannenberg, Ruibin Yuan, Shangda Wu, Shih-Lun Wu, Shuqi Dai, Shun Lei, Shiyin Kang, Simon Dixon, Wenhu Chen, Wenhao Huang, Xingjian Du, Xingwei Qu, Xu Tan, Yizhi Li, Zeyue Tian, Zhiyong Wu, Zhizheng Wu, Ziyang Ma, and Ziyu Wang},
-  journal={arxiv},
+  author={Ma, Yinghao and {\O}land, Anders and Ragni, Anton and Del Sette, Bleiz MacSen and Saitis, Charalampos and Donahue, Chris and Lin, Chenghua and Plachouras, Christos and Benetos, Emmanouil and Shatri, Elona and others},
+  journal={arXiv preprint arXiv:2408.14340},
   year={2024}
 }
 ```
