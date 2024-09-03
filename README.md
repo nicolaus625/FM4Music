@@ -6,9 +6,9 @@ The official GitHub page for the survey paper "Foundation Models for Music: A Su
 
 > A collection of papers and resources related to Foundation Models (FMs) for Music, including pre-trained language models (PLMs), Large Language Models (LLMs) and Latent Diffusion Models (LDMs) 
 >
-> The organization of papers refers to our survey [**"Foundation Models for Music: A Survey"**](). 
+> The organisation of papers refers to our survey [**"Foundation Models for Music: A Survey"**](). 
 >
-> Please let us know if you find out a mistake or have any suggestions by e-mail: yinghao.ma@qmul.qc.uk
+> Please let us know if you find out a mistake or have any suggestions by e-mail: yinghao.ma@qmul.ac.uk
 >
 > If you find our survey useful for your research, please cite the following paper:
 
