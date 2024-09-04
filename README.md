@@ -234,7 +234,7 @@ The official GitHub page for the survey paper "Foundation Models for Music: A Su
 Understanding and Reasoning Benchmark (MMMU) 
 - ZIQI-Eval Benchmark
 
-## Acknoeledge
+## Acknowledge
 Yinghao Ma is a research student at the
 UKRI Centre for Doctoral Training in Artificial Intelligence and Music, supported by
 UK Research and Innovation [grant number
