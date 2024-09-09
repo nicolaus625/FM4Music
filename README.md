@@ -97,6 +97,7 @@ The official GitHub page for the survey paper "Foundation Models for Music: A Su
 | musicHuBERT | Audio (Music)        | Understanding | MLM (Clustering via CL.) | 1-D CNN         | Transformer Encoder               |
 | MERT        | Audio (Music)        | Understanding | MLM (Clustering via CL.) | 1-D CNN         | Transformer Encoder               |
 | MusicFM     | Audio (Music)        | Understanding | MLM (Clustering via CL.) | Spectrum, BEST-RQ | Conformer Encoder              |
+| LARP        | Audio (Sound), Text, Relational  | Understanding & Recommendation | Contrastive Learning | spectrum        | Transformer Encoder   |    
 
 ### Generative Model (VAE, GPT, Diffusion)
 | Model                | Modality                | Application | Training Paradigm | Tokenizer                           | Architecture               |
